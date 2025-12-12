@@ -6,6 +6,7 @@ import {
 } from "lucide-react-native";
 import { Image, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import ProfileIcon from "./ProfileIcon";
+import React from "react";
 
 interface Post {
   user: {

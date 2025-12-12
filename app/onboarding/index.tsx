@@ -2,6 +2,7 @@ import { Colors, Theme } from "@/constants/colors";
 import { setItem } from "@/utils/asyncStorage";
 import { useRouter } from "expo-router";
 import Lottie from "lottie-react-native";
+import React from "react";
 import { Dimensions, StyleSheet, View } from "react-native";
 import Onboarding from "react-native-onboarding-swiper";
 const { width, height } = Dimensions.get("window");

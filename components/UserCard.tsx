@@ -1,6 +1,7 @@
 import { Theme } from "@/constants/colors";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import ProfileIcon from "./ProfileIcon";
+import React from "react";
 
 const UserCard = () => {
   return (
